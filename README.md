@@ -10,6 +10,8 @@ Techniques used in the project : Logistic Regression, Random Forest, Decision Tr
 
 The best results are achieved by XGBoost classifier. With this approach, the model is able to detect 100% of all fraudulent transactions in the unseen test set. This fully satisfies the primary objective to detect the vast majority of abnormal transactions.
 
+Metric used : Accuracy, Precision, Recall, F1 Score
+
 The Accuracy achieved at end 0.999818	
 
 The Precision achieved at end 0.999637
@@ -17,3 +19,8 @@ The Precision achieved at end 0.999637
 The Recall  achieved at end 0.999941
 
 The F1 Score achieved at end 0.999819
+
+
+
+
+
